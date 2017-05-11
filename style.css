@@ -1,0 +1,21 @@
+img {
+  width:400px;
+  height:150px;
+  display: block;
+  margin-left: 40%;
+  margin-right: auto;
+  margin-top: 10%;
+}
+img.displayed {
+}
+form {
+  margin-left: 40%;
+  margin-right: auto;
+}
+input[type=text] {
+  width: 400px;
+}
+input[type=submit] {
+  margin-top: 2%;
+  margin-left: 5%;
+}
